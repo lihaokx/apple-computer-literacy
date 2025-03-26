@@ -9,7 +9,7 @@
 我的做法是：
 
 > 1. 先在 Kindle 上读完一本书（我觉得这一步绝对不能跳过）；
-> 2. 从自己的 [Content Library](https://www.amazon.com/hz/mycd/digital-console/contentlist/booksAll/dateDsc/) 里下载相应的 azw3 文件；
+> 2. 从自己的 [Content Library](https://www.amazon.com/hz/mycd/digital-console/contentlist/booksAll/dateDsc/) 里下载相应的 azw3 文件； ## this no longer works, because amazon does not allow to download awz3 file anymore. https://www.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/
 > 3. 使用 ePubor 软件将其转换成 epub 文件（参见[这篇文章](kindle.md)）；
 > 4. 【待续……】
 
